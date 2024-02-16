@@ -17,12 +17,11 @@
 
 <div>
  <h3>:man_technologist: About Me :</h3>
- - :telescope: I’m currently working as a Full Stack Devoloper
-
- - :seedling: Exploring Python and PowerBi.
-
- - :zap: In my free time, I develop games and learn new technologies
-
+  <ul>
+    <li>:telescope: I’m currently working as a Full Stack Devoloper</li> 
+    <li>:seedling: Exploring Python and Javascript to create new applications.</li>
+    <li>:zap: In my free time, I develop games and learn new technologies</li>
+  </ul>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
