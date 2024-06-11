@@ -1,5 +1,4 @@
 <div id="header" align="center" border-radius="5px">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
 
   <div id="badges">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -39,4 +38,3 @@
 ![ARandomPorgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=4RandomProgrammer&count_private=true&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4RandomProgrammer&count_private=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake Animation](https://github.com/4RandomProgrammer/4RandomProgrammer/blob/output/github-contribution-grid-snake.svg)
