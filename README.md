@@ -5,9 +5,12 @@
      I'm Luís Felipe
   </h1>
    <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Twitter Badge" />
+     <a href="https://www.linkedin.com/in/luis-felipe-dobner-henriques/">
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </a>
+    
+    #<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    #<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch Badge" />
   </div>
   <img src="https://komarev.com/ghpvc/?username=4RandomProgrammer&style=flat-square&color=blue" alt="" align=/>
 </div>
