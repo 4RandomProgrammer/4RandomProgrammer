@@ -5,12 +5,15 @@
      I'm Luís Felipe
   </h1>
    <div id="badges">
-     <a href="https://www.linkedin.com/in/luis-felipe-dobner-henriques/">
+     <a href="https://www.linkedin.com/in/luis-felipe-dobner-henriques/"  target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
-    
-    #<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    #<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch Badge" />
+    <a href="https://arandomprogrammer.itch.io/"  target="_blank">
+       <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch Badge" />
+     </a>
+     <a href="https://www.youtube.com/@arandomprogrammer4244"  target="_blank">
+       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=4RandomProgrammer&style=flat-square&color=blue" alt="" align=/>
 </div>
